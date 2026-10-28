@@ -1,0 +1,15 @@
+{
+  "bytes": 262144,
+  "encrypted_prefix_bytes": 262144,
+  "zero_suffix_bytes": 0,
+  "padding": "json-spaces",
+  "account_and_systeminfo_exact": true,
+  "same_iv": true,
+  "array_lengths_unchanged": true,
+  "gold": 99999999,
+  "stash_index": 0,
+  "ItemKey": 190004,
+  "Quantity": 99,
+  "warning": "Game acceptance not verified; 99 exceeds user-reported stack limit of 5. SystemInfo not recalculated.",
+  "full_file_standard_decrypt_and_json": "passed"
+}
